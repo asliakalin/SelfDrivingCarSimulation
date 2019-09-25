@@ -1,5 +1,5 @@
 # Self Driving Car
-The first Self Driving Car simulation: Duckietown
+The first Self Driving Car simulation in the Duckietown Universe
 
 
 ## Set-up
