@@ -1,4 +1,4 @@
-# selfdriving
+# Self Driving Car
 The first Self Driving Car simulation: Duckietown
 
 
