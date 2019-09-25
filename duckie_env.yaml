@@ -1,4 +1,4 @@
-name: sdc_decal
+name: duckie
 channels:
   - pytorch
   - defaults
