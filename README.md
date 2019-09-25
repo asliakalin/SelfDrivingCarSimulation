@@ -7,6 +7,7 @@ The first Self Driving Car simulation: Duckietown
 1. Set up Anaconda environment:  https://www.anaconda.com/distribution/
 2. Create a new conda environment with the existing yaml file given in the repository: conda env create -f duckie_env.yaml
 3. Activate the environment: conda activate duckie
-4. Run duckie_controller.py: python3 duckie_controller.py
-5. Press "f" to start the simulation
-6. Use arrow keys to control the car.
+4. Navigate inside the folder gym-duckietown
+5. Run duckie_controller.py: python3 duckie_controller.py
+6. Press "f" to start the simulation
+7. Use arrow keys to control the car.
