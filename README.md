@@ -1,5 +1,5 @@
 # selfdriving
-Initial Self Driving Car simulation: Duckietown
+The first Self Driving Car simulation: Duckietown
 
 
 ## Set-up
