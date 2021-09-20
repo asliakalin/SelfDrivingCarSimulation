@@ -1,6 +1,6 @@
 # Self Driving Car
-The Self Driving Car simulation in the Duckietown Universe
-Work from UC Berkeley's Self Driving Car Decal
+The Self Driving Car simulation in the Duckietown Universe.
+<p> Work from UC Berkeley's Self Driving Car Decal
 
 
 ## Set-up
